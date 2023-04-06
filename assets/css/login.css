@@ -1,0 +1,23 @@
+.icon {
+    width: 100px;
+}
+
+.home{
+    margin-right: 10px;
+    padding-top: 30px;
+
+}
+
+body {
+    margin-top: 100px;
+  
+}
+
+form {
+    width: 400px;
+}
+img {
+    border: 3px solid darkgray;
+    border-radius: 50%;
+}
+
